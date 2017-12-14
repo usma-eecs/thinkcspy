@@ -1,4 +1,5 @@
 How to Think Like a Computer Scientist: Interactive Edition
+IT105 Introduction to Computer Science
 ===========================================================
 
 This project began with the original How to Think Like a Computer Scientist text by Jeffrey Elkner, Peter Wentworth, Allen B. Downey, Chris  Meyers, and Dario Mitchell.  Since 2011 Brad Miller, David Ranum, Barbara Ericson, Mark Guzdial, and many others have built on the text making it interactive.
