@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'IT105 Introduction to Information Technology using How to Think Like a Computer Scientist'
+project = u'IT105 Introduction to Information Technology'
 copyright = u'2017 Tom Babbitt, Brad Miller, David Ranum, Created using Runestone Interactive'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -161,7 +161,7 @@ html_theme_path = ["./_sources/_templates/plugin_layouts"]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'IT105 Introduction to Information Technology: Interactive Edition'
+html_title = 'IT105 Introduction to Information Technology'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title ='IT105 Introduction to Information Technology'
