@@ -19,14 +19,14 @@ except ImportError:
 
 
 ######## CHANGE THIS ##########
-project_name = "IT105"
+project_name = "AY182_IT105"
 ###############################
 
 master_url = None
 doctrees = None
 if master_url is None:
     if gethostname() in ['web608.webfaction.com', 'rsbuilder']:
-        master_url = 'http://interactivepython.org'
+        master_url = 'https://runestone.academy'
         if os.path.exists('../../custom_courses/{}'.format(project_name)):
             doctrees = '../../custom_courses/{}/doctrees'.format(project_name)
         else:
