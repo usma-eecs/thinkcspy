@@ -11,7 +11,7 @@
 .. raw:: html
 
    <div style="text-align:center" class="center-block">
-   <h1>IT105 Test Based on How to Think Like a Computer Scientist: Interactive Edition</h1>
+   <h1>IT105: Introduction to Information Technology -- Interactive Edition</h1>
    <style>
    button.reveal_button {
        margin-left: auto;
