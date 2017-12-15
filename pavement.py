@@ -36,7 +36,7 @@ if master_url is None:
         doctrees = './build/{}/doctrees'.format(project_name)
 
 master_app = 'runestone'
-serving_dir = "./build/IT105"
+serving_dir = "./build/AY182_IT105"
 dest = "../../static"
 
 options(
