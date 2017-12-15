@@ -148,6 +148,7 @@ html_theme_options = {
     # Bootswatch (http://bootswatch.com/) theme.
     #
     # Options are nothing with "" (default) or the name of a valid theme
+
     # such as "amelia" or "cosmo".
     #
     # Note that this is served off CDN, so won't be available offline.
@@ -168,7 +169,7 @@ html_short_title ='IT105 Introduction to Information Technology'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "./source/_static/babbitt.png"
+html_logo = "./source/_static/EECS_logo.gif"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
