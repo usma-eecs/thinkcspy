@@ -115,7 +115,7 @@ html_theme = 'sphinx_bootstrap'
 #html_theme_options = {'nosidebar': 'true'}
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': "IT105 Introduction to Information Technology",
+    'navbar_title': "IT105:Introduction to Information Technology",
 
     # Tab name for entire site. (Default: "Site")
     'navbar_site_name': "Chapters",
@@ -161,14 +161,14 @@ html_theme_path = ["./_sources/_templates/plugin_layouts"]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'IT105 Introduction to Information Technology'
+html_title = 'IT105:Introduction to Information Technology'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title ='IT105 Introduction to Information Technology'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "./source/_static/babbitt.png"
+html_logo = "./source/_static/EECS.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
