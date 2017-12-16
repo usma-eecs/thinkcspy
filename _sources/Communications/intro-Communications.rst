@@ -1,5 +1,5 @@
-..  Copyright (C)  Tom Babbitt, Brad Miller, David Ranum, Jeffrey Elkner, Peter Wentworth, Allen B. Downey, Chris
-    Meyers, and Dario Mitchell.  Permission is granted to copy, distribute
+..  Copyright (C) Brad Miller, David Ranum, Jeffrey Elkner, Peter Wentworth, Allen B. Downey, Chris
+    Meyers, Dario Mitchell, and Tom Babbitt.  Permission is granted to copy, distribute
     and/or modify this document under the terms of the GNU Free Documentation
     License, Version 1.3 or any later version published by the Free Software
     Foundation; with Invariant Sections being Forward, Prefaces, and
@@ -10,8 +10,8 @@
 Communications
 ======================
 
-Digital Communications is a fun and exciting field one in which all fucture officer must be competent.
+Digital Communications is a fun and exciting field. Packet switched networks, cell networks, the world wide web, e-mail, Google, and streaming music are all 
 
 
-.. index:: Communications, networks, network security, 
+.. index:: Communications, networks, network security
 
