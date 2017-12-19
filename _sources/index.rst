@@ -88,6 +88,17 @@ Labs
    Labs/sequencelab.rst
    Labs/sinlab.rst
 
+
+In Class Exercises (ICE)
+::::::::::::::::::::::::
+
+.. toctree::
+   :caption: ICEs
+   :maxdepth: 1
+
+   ICE/ICE01_Test.rst
+
+
 Appendices
 ::::::::::
 
