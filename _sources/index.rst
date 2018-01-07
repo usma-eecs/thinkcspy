@@ -98,7 +98,16 @@ In Class Exercises (ICE)
 
    ICE/ICE01_Test.rst
 
+IT105 Resources
+::::::::::::::::::::::::
 
+.. toctree::
+   :caption: IT105Resources
+   :maxdepth: 1
+
+   IT105Resources/IT105_DocExamples.rst
+
+   
 Appendices
 ::::::::::
 
