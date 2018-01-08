@@ -40,7 +40,14 @@
    The Runestone Interactive tools are open source and we encourage you to contact us, or grab a copy from GitHub if you would like to use them to write your own resources.
 
 
+IT105 Resources
+::::::::::::::::::::::::
 
+.. toctree::
+   :caption: IT105Resources
+   :maxdepth: 1
+
+   IT105Resources/IT105_DocExamples.rst
 
 Table of Contents
 :::::::::::::::::
@@ -50,7 +57,7 @@ Table of Contents
    <ul>
    <li><a href="../../assignments/chooseAssignment.html">Assignments</a></li>
    </ul>
-
+   
 .. toctree::
    :numbered:
    :maxdepth: 3 
@@ -97,15 +104,6 @@ In Class Exercises (ICE)
    :maxdepth: 1
 
    ICE/ICE01_Test.rst
-
-IT105 Resources
-::::::::::::::::::::::::
-
-.. toctree::
-   :caption: IT105Resources
-   :maxdepth: 1
-
-   IT105Resources/IT105_DocExamples.rst
 
    
 Appendices
