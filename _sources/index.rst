@@ -49,6 +49,16 @@ IT105 Resources
 
    IT105Resources/IT105_DocExamples.rst
 
+IT105 In Class Exercises (ICE)
+::::::::::::::::::::::::
+
+.. toctree::
+   :caption: ICEs
+   :maxdepth: 1
+
+   ICE/ICE_LSN08_01.rst
+
+   
 Table of Contents
 :::::::::::::::::
 
@@ -94,16 +104,6 @@ Labs
    Labs/pythonshell.rst
    Labs/sequencelab.rst
    Labs/sinlab.rst
-
-
-In Class Exercises (ICE)
-::::::::::::::::::::::::
-
-.. toctree::
-   :caption: ICEs
-   :maxdepth: 1
-
-   ICE/ICE01_Test.rst
 
    
 Appendices
