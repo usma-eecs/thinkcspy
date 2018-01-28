@@ -32,7 +32,7 @@ Finding Time
 ------------
 The ``datetime`` module allows us to determine the exact time.    
 
-.. activecode:: ICE01_LS08_02
+.. activecode:: ICE_LS08_02
     :nocanvas:
        
     import datetime
