@@ -40,8 +40,25 @@
    The Runestone Interactive tools are open source and we encourage you to contact us, or grab a copy from GitHub if you would like to use them to write your own resources.
 
 
+IT105 Resources
+::::::::::::::::::::::::
 
+.. toctree::
+   :caption: IT105Resources
+   :maxdepth: 1
 
+   IT105Resources/IT105_DocExamples.rst
+
+IT105 In Class Exercises (ICE)
+::::::::::::::::::::::::
+
+.. toctree::
+   :caption: ICEs
+   :maxdepth: 1
+
+   ICE/ICE_LSN08_01.rst
+
+   
 Table of Contents
 :::::::::::::::::
 
@@ -50,7 +67,7 @@ Table of Contents
    <ul>
    <li><a href="../../assignments/chooseAssignment.html">Assignments</a></li>
    </ul>
-
+   
 .. toctree::
    :numbered:
    :maxdepth: 3 
@@ -87,25 +104,6 @@ Labs
    Labs/pythonshell.rst
    Labs/sequencelab.rst
    Labs/sinlab.rst
-
-
-In Class Exercises (ICE)
-::::::::::::::::::::::::
-
-.. toctree::
-   :caption: ICEs
-   :maxdepth: 1
-
-   ICE/ICE01_Test.rst
-
-IT105 Resources
-::::::::::::::::::::::::
-
-.. toctree::
-   :caption: IT105Resources
-   :maxdepth: 1
-
-   IT105Resources/IT105_DocExamples.rst
 
    
 Appendices
