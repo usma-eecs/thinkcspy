@@ -40,13 +40,25 @@ The master is tied directly to the production environment on `Runestone Academy 
 
 2. Follow the instructions above to install.
 
-3. Only modify content in the specifed directories below **(Any other changes will effect the thinkcspy course)**:
+3. The content files are all in ``_sources``. Key files and information listed below.
+
+   1. ``index.rst`` - This is the table of content for the entire page. It creates index.html
+   2. Each chapter folder contains:
+
+      1. ``toctree.rst`` - This is the chapter table of contents.
+      2. ``Excercises.rst`` - A number of pertinant problems.
+      3. ``glossary.rst`` - self explanitory
+      4. A number of sections.
+
+   3. Some of the Chapters such as ``ICE`` and ``Labs`` are just a list of exercises.
+	 
+4. Only modify content in the specifed directories below **(Any other changes will effect the thinkcspy course)**:
 
    1. ``ICE``
    2. ``Communications``
    3. ``IT105Resources``
    4. All new directories associated with IT105 will follow the naming convention of ``IT105_XXXX``
 
-4. Coordinate with LTC Babbitt to merge and push to master.
+5. Coordinate with LTC Babbitt to merge and push to master.
 
 
