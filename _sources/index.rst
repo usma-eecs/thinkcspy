@@ -85,7 +85,6 @@ Table of Contents
    Files/toctree.rst
    Dictionaries/toctree.rst
    Exceptions/toctree.rst
-   Communications/toctree.rst
 
 Labs
 ::::
