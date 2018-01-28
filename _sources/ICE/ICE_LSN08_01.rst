@@ -6,7 +6,7 @@
     the license is included in the section entitled "GNU Free Documentation
     License".
 
-Power of Algorithm - Comparison of Algorithmic Time
+The Power of an Algorithm - Comparison of Algorithmic Time
 ==================================================
 
 
