@@ -40,13 +40,13 @@ The master is tied directly to the production environment on `Runestone Academy 
 
 2. Follow the instructions above to install.
 
-3. `Do not` modify any content that is not in specifed directories
+3. Only modify content in the specifed directories below **(Any other changes will effect the thinkcspy course)**:
 
-   1. ICE
-   2. Communications
-   3. IT105Resources
+   1. ``ICE``
+   2. ``Communications``
+   3. ``IT105Resources``
    4. All new directories associated with IT105 will follow the naming convention of ``IT105_XXXX``
 
-4. Coordinate with LTC Babbitt to merge and push to master
+4. Coordinate with LTC Babbitt to merge and push to master.
 
 
