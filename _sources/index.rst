@@ -36,6 +36,7 @@
    * Many contributions from the `CSLearning4U research group <http://home.cc.gatech.edu/csl/CSLearning4U>`_ at Georgia Tech.
    * ACM-SIGCSE for the special projects grant that funded our student Isaac Dontje Lindell for the summer of 2013.
    * NSF
+   * IT105 Content Created by LTC Tom Babbitt, Chip Schooler, and Kyle King for AY182
 
    The Runestone Interactive tools are open source and we encourage you to contact us, or grab a copy from GitHub if you would like to use them to write your own resources.
 
