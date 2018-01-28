@@ -30,7 +30,7 @@ Example of Assistance Citation
     #center coordinate as input in my own program. West Point, NY.
 
 Example of Working Together With Another Cadet
----------------------------------------------
+-----------------------------------------------
 
 .. activecode:: IT105R0_2
     :nocanvas:
@@ -43,7 +43,7 @@ Example of Working Together With Another Cadet
     #looked at my code and helped me find the misspelled variable in line 23.  West Point, NY.
 
 Example of Collaboration with Another Cadet
--------------------------------------------
+--------------------------------------------
 
 Careful. This may *not* fully prepare you for graded events.
 
@@ -104,7 +104,7 @@ Example of Book Citation
     #circumference of a circle based on its center point and radius.
 
 Example of Citing Verbatim Copying from Our Text
------------------------------------------
+-------------------------------------------------
 **NOTE**: It is scholarly practice to give credit where credit is due. If you use a program not covered in class in a primarily verbatim manner (which was not done in either example above) and without changing the capabilities of that program, it is good practice to cite as:
 
 .. activecode:: IT105R0_8
