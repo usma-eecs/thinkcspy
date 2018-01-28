@@ -51,7 +51,7 @@ IT105 Resources
    IT105Resources/IT105_DocExamples.rst
 
 IT105 In Class Exercises (ICE)
-::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
 
 .. toctree::
    :caption: ICEs
@@ -61,7 +61,7 @@ IT105 In Class Exercises (ICE)
 
    
 Table of Contents
-:::::::::::::::::
+::::::::::::::::::
 
 .. raw:: html
 
@@ -107,7 +107,7 @@ Labs
 
    
 Appendices
-::::::::::
+:::::::::::
 
 .. toctree::
    :caption: Appendices
@@ -117,7 +117,7 @@ Appendices
    Appendices/PrecedenceTable.rst
 
 Acknowledgements
-::::::::::::::::
+:::::::::::::::::
 
 .. toctree::
     :caption: Acknowledgements
