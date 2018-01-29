@@ -9,11 +9,46 @@
 The Power of an Algorithm - Comparison of Algorithmic Time
 ==========================================================
 
+Overview
+--------------
+
+In this ICE, we are going to show the power of an algorithm. The better the design the faster it runs on a computer. This
+can have huge ramifications. No on likes to wait while the computer processes an application. In fact, many of you have
+probably killed an applications that you have to wait on and likely will not use that particular program again.
+
+We will use two different sorting algorithms to show how design can make a difference in time. The first is the python ``sort()``
+function associated with a list. The second is a bubble sort algortim all ready written ``bubbleSort(aList)``.
+
+Here is a possible sequence of steps that we will need to accomplish:
+
+#. Import the modules we need
+
+#. Create a list of random numbers
+
+#. Copy the list of random numbers
+
+#. Determine the start time for ``sort()``
+
+#. Run ``sort()`` on a copy of the list
+
+#. Determine the end time for ``sort()`` and print
+
+#. Determine the start time ``bubbleSort(aList)``
+
+#. Run ``bubbleSort(aList)`` on the unsorted copy of the list.
+
+#. Determine the end time for ``bubbleSort()`` and print
+
+#. Find the Difference.
+
+
+In order to accomplish the algorithm above two standard python libraries are described below.
+   
 
 Random Numbers
 --------------
 
-Before beginning to  write code for this in class exercise, we need to introduce two additional Python modules. The ``random`` module allows us to generate random numbers.
+Before beginning to  write code for this in class exercise, we need to introduce two python modules. The ``random`` module allows us to generate random numbers.
 It's easy to use:
 
 
@@ -44,35 +79,9 @@ how the output to the screen looks.
 
 Comparison of Times
 -------------------
+Use the list of steps to update the code below and see the difference in execution time between an algorithm that runs in
+:math:`O\left(N\,log\, N\right)` versus :math:`O\left(N^2\right)`.
 
-In this ICE, we are going to show the power of an algorithm. The better the design the faster it runs on a computer. This
-can have huge ramifications. No on likes to wait while the computer processes an application. In fact, many of you have
-probably killed an applications that you have to wait on and likely will not use that particular program again.
-
-We will use two different sorting algorithms to show how design can make a difference in time. The first is the python ``sort()``
-function associated with a list. The second is a bubble sort algortim all ready written ``bubbleSort(aList)``.
-
-Here is a possible sequence of steps that we will need to accomplish:
-
-#. Import the modules we need
-
-#. Create a list of random numbers
-
-#. Copy the list of random numbers
-
-#. Determine the start time for ``sort()``
-
-#. Run ``sort()`` on a copy of the list
-
-#. Determine the end time for ``sort()`` and print
-
-#. Determine the start time ``bubbleSort(aList)``
-
-#. Run ``bubbleSort(aList)`` on the unsorted copy of the list.
-
-#. Determine the end time for ``bubbleSort()`` and print
-
-#. Find the Difference.
 
 .. activecode:: ICE_LSN08_03
    :nocodelens:
