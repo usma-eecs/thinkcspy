@@ -58,6 +58,7 @@ IT105 In Class Exercises (ICE)
    :maxdepth: 1
 
    ICE/ICE_LSN08_01.rst
+   ICE/ICE_LSN10_01.rst
 
    
 Table of Contents
