@@ -49,6 +49,7 @@ IT105 Resources
    :maxdepth: 1
 
    IT105Resources/IT105_DocExamples.rst
+   IT105Resources/IT105_ClassDemos.rst
    IT105Resources/Exercises.rst
 
 IT105 In Class Exercises (ICE)
