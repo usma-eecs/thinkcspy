@@ -43,7 +43,9 @@
 
 IT105 Resources
 ::::::::::::::::::::::::
-
+  
+.. raw:: html
+  
 .. toctree::
    :caption: IT105Resources
    :maxdepth: 1
@@ -54,6 +56,8 @@ IT105 Resources
 
 IT105 In Class Exercises (ICE)
 :::::::::::::::::::::::::::::::
+
+.. raw:: html  
 
 .. toctree::
    :caption: ICEs

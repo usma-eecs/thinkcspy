@@ -17,7 +17,6 @@ questions will be identified through comments when you run your program.
 
 .. question:: IT105Resoures_ex_1
 
-
    .. tabbed:: q1
 
         .. tab:: Question
